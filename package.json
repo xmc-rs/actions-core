@@ -35,13 +35,13 @@
         "@actions/tool-cache": "2.0.1",
         "@octokit/graphql": "5.0.4",
         "@octokit/rest": "18.12.0",
-        "semver": "7.3.2"
+        "semver": "7.3.8"
     },
     "devDependencies": {
         "npm-check-updates": "16.6.2",
         "@types/jest": "26.0.24",
         "@types/node": "18.11.18",
-        "@types/semver": "7.3.4",
+        "@types/semver": "7.3.13",
         "@typescript-eslint/eslint-plugin": "5.47.1",
         "@typescript-eslint/parser": "5.47.1",
         "eslint": "8.30.0",
