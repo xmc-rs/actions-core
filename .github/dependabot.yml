@@ -21,6 +21,6 @@ updates:
       interval: "daily"
     labels:
       - "dependencies"
-      - "github_actions"
+      - "actions"
       - "automerge"
 
