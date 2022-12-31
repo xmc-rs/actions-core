@@ -28,10 +28,10 @@
     },
     "dependencies": {
         "@actions/cache": "^1.0.4",
-        "@actions/core": "^1.2.6",
+        "@actions/core": "^1.9.1",
         "@actions/exec": "^1.0.4",
         "@actions/github": "^4.0.0",
-        "@actions/io": "^1.0.2",
+        "@actions/io": "^1.1.2",
         "@actions/tool-cache": "^1.6.1",
         "@octokit/graphql": "^4.5.7",
         "@octokit/rest": "^18.0.9",

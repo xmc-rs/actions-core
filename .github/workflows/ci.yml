@@ -4,7 +4,7 @@ jobs:
   main:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v3
     - run: npm ci
 # TODO: Return it back later after urgent fix
 #    - run: npm run lint
