@@ -1,7 +1,7 @@
 {
     "private": false,
     "name": "@xmc-rs/core",
-    "version": "0.1.6",
+    "version": "1.0.0",
     "author": "xmc-rs",
     "license": "MIT",
     "description": "Core functionality for the @xmc-rs repos",
