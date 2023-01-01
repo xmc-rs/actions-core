@@ -1,10 +1,10 @@
 {
     "private": false,
-    "name": "@actions-rs/core",
+    "name": "@xmc-rs/core",
     "version": "0.1.6",
-    "author": "actions-rs",
+    "author": "xmc-rs",
     "license": "MIT",
-    "description": "Core functionality for the @actions-rs repos",
+    "description": "Core functionality for the @xmc-rs repos",
     "main": "dist/core.js",
     "files": [
         "dist/**/*.js",
@@ -21,10 +21,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/actions-rs/core.git"
+        "url": "git+https://github.com/xmc-rs/core.git"
     },
     "bugs": {
-        "url": "https://github.com/actions-rs/core/issues"
+        "url": "https://github.com/xmc-rs/core/issues"
     },
     "dependencies": {
         "@actions/cache": "3.1.1",
