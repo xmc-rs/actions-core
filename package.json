@@ -38,7 +38,7 @@
         "semver": "7.3.8"
     },
     "devDependencies": {
-        "npm-check-updates": "16.7.9",
+        "npm-check-updates": "16.7.10",
         "@types/jest": "26.0.24",
         "@types/node": "18.14.2",
         "@types/semver": "7.3.13",
