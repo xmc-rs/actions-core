@@ -35,7 +35,7 @@
         "@actions/tool-cache": "2.0.1",
         "@octokit/graphql": "6.0.1",
         "@octokit/rest": "19.0.9",
-        "semver": "7.5.3"
+        "semver": "7.5.4"
     },
     "devDependencies": {
         "npm-check-updates": "16.10.15",
